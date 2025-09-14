@@ -4,5 +4,4 @@ I am a **Research Software Engineer** at the University of Manchester, with a ba
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineMcGuire&layout=compact)  
 
----
 
