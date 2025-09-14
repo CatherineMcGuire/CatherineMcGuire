@@ -1,16 +1,13 @@
-## Hi there 👋
+# Catherine McGuire  
 
-<!--
-**CatherineMcGuire/CatherineMcGuire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a **Research Software Engineer** at the University of Manchester, with a background spanning research, web development, and technical leadership, in both industry and academia. My work supports researchers across the full software lifecycle, contributing to projects in healthcare, digital humanities, and open science. I am currently working on developing skills in data science, machine learning and agentic AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CatherineMcGuire&layout=compact)  
+
+---
+
